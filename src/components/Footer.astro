@@ -1,0 +1,87 @@
+---
+import { Image } from "astro:assets";
+import {
+    DiscordIcon,
+    FaceBookIcon,
+    GithubIcon,
+    InstagramIcon,
+    LinkedinIcon,
+    LogoIcon,
+    TwitterIcon,
+} from "../assets/SVGs";
+
+const currentYear = new Date().getFullYear();
+---
+
+<footer
+    class="relative bottom-0 w-full h-[50vh] flex justify-between items-center flex-col px-4 py-8 bg-footer"
+>
+    <svg
+        id="visual"
+        version="1.1"
+        viewBox="0 321.18 960 219.82"
+        class="absolute -translate-y-full pb-4 w-full"
+        xmlns="http://www.w3.org/2000/svg"
+    >
+        <path
+            d="M0 389L26.7 371.8C53.3 354.7 106.7 320.3 160 321.2C213.3 322 266.7 358 320 386C373.3 414 426.7 434 480 419.5C533.3 405 586.7 356 640 339.7C693.3 323.3 746.7 339.7 800 362.3C853.3 385 906.7 414 933.3 428.5L960 443L960 541L933.3 541C906.7 541 853.3 541 800 541C746.7 541 693.3 541 640 541C586.7 541 533.3 541 480 541C426.7 541 373.3 541 320 541C266.7 541 213.3 541 160 541C106.7 541 53.3 541 26.7 541L0 541Z"
+            fill="transparent"></path>
+        <path
+            d="M0 355L26.7 350C53.3 345 106.7 335 160 347.8C213.3 360.7 266.7 396.3 320 421.2C373.3 446 426.7 460 480 466.2C533.3 472.3 586.7 470.7 640 453.2C693.3 435.7 746.7 402.3 800 400.7C853.3 399 906.7 429 933.3 444L960 459L960 541L933.3 541C906.7 541 853.3 541 800 541C746.7 541 693.3 541 640 541C586.7 541 533.3 541 480 541C426.7 541 373.3 541 320 541C266.7 541 213.3 541 160 541C106.7 541 53.3 541 26.7 541L0 541Z"
+            fill="var(--footerSvgB)"></path>
+        <path
+            d="M0 505L26.7 502.2C53.3 499.3 106.7 493.7 160 484.5C213.3 475.3 266.7 462.7 320 444.2C373.3 425.7 426.7 401.3 480 409C533.3 416.7 586.7 456.3 640 475C693.3 493.7 746.7 491.3 800 479.3C853.3 467.3 906.7 445.7 933.3 434.8L960 424L960 541L933.3 541C906.7 541 853.3 541 800 541C746.7 541 693.3 541 640 541C586.7 541 533.3 541 480 541C426.7 541 373.3 541 320 541C266.7 541 213.3 541 160 541C106.7 541 53.3 541 26.7 541L0 541Z"
+            fill="var(--footerSvgA)"></path>
+        <path
+            d="M 0 501 L 26.7 498 C 53.3 495 106.7 489 160 490 C 213.3 491 266.7 499 320 501.3 C 373.3 503.7 426.7 500.3 480 491.3 C 533.3 482.3 586.7 467.7 640 464.7 C 693.3 461.7 746.7 470.3 800 469.3 C 853.3 468.3 906.7 457.7 933.3 452.3 L 960 447 L 960 542 L 933.3 542 C 906.7 542 853.3 542 800 542 C 746.7 542 693.3 542 640 542 C 586.7 542 533.3 542 480 542 C 426.7 542 373.3 542 320 542 C 266.7 542 213.3 542 160 542 C 106.7 542 53.3 542 26.7 542 L 0 541 L 0 501 Z"
+            fill="var(--footer)"></path>
+    </svg>
+
+    <div class="w-full flex_center flex-col gap-2">
+        <Image src={LogoIcon} alt="LogoIcon" width={80} height={80} />
+        <span>Kaito Daniel | Portfolio</span>
+    </div>
+
+    <div class="grid grid-cols-3 lg:grid-cols-3 gap-x-20 gap-y-10 lg:gap-20">
+        <a
+            href="https://github.com/Tigercoder0218"
+            target="_blank"
+            rel="noreferrer"
+        >
+            <Image src={GithubIcon} alt="Discord" width={30} height={30} />
+        </a>
+        <a
+            href="https://discord.gg/WmVQjMryDz"
+            target="_blank"
+            rel="noreferrer"
+        >
+            <Image src={DiscordIcon} alt="Discord" width={30} height={30} />
+        </a>
+         <a
+                href="mailto:kaitodaniel1031@gmail.com"
+                title="Google Search"
+                target="_blank"
+                rel="noreferrer"
+                class="Fade_Stagger"
+            >
+                <svg
+                    stroke="currentColor"
+                    fill="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 16 16"
+                    color="#fff"
+                    height="30"
+                    width="30"
+                    xmlns="http://www.w3.org/2000/svg"
+                    style="color: var(--heroSocialColor);"
+                >
+                    <path
+                        d="M15.545 6.558a9.42 9.42 0 0 1 .139 1.626c0 2.434-.87 4.492-2.384 5.885h.002C11.978 15.292 10.158 16 8 16A8 8 0 1 1 8 0a7.689 7.689 0 0 1 5.352 2.082l-2.284 2.284A4.347 4.347 0 0 0 8 3.166c-2.087 0-3.86 1.408-4.492 3.304a4.792 4.792 0 0 0 0 3.063h.003c.635 1.893 2.405 3.301 4.492 3.301 1.078 0 2.004-.276 2.722-.764h-.003a3.702 3.702 0 0 0 1.599-2.431H8v-3.08h7.545z"
+                    >
+                    </path>
+                </svg>
+            </a>
+    </div>
+
+    <span>© Copyright 2023-{currentYear} Kaito Daniel</span>
+</footer>
