@@ -37,7 +37,16 @@ import {
     GSAPIcon,
     FramerMotionIcon,
     BunIcon,
-    RIcon
+    RIcon,
+    SolidityIcon,
+    SolanaIcon,
+    EthereumIcon,
+    HardhatIcon,
+    ChainlinkIcon,
+    TruffleIcon,
+    GanacheIcon,
+    PostgreSQLIcon,
+    AngularIcon
 } from "../assets/Icons";
 import { GithubIcon } from "../assets/SVGs";
 
@@ -63,6 +72,7 @@ export const FrontendStack = [
         link: "https://www.typescriptlang.org/",
     },
     { name: "React.js", icon: ReactIcon, link: "https://react.dev/" },
+    { name: "Angular", icon: AngularIcon, link: "https://angualr.dev/" },
     { name: "Next.js", icon: NextIcon, link: "https://nextjs.org/" },
     { name: "Astro", icon: AstroIcon, link: "https://astro.build/" },
     { name: "Tailwind", icon: TailwindIcon, link: "https://tailwindcss.com/" },
@@ -114,6 +124,11 @@ export const BackendStack = [
         icon: NextAuthIcon,
         link: "https://authjs.dev/",
     },
+    {
+        name: "PostgreSQL",
+        icon: PostgreSQLIcon,
+        link: "https://www.postgresql.org/",
+    },
 ];
 
 export const ProgrammingStack = [
@@ -148,4 +163,14 @@ export const ToolsStack = [
         link: "https://code.visualstudio.com/",
     },
     { name: "Figma", icon: FigmaIcon, link: "https://www.figma.com/" },
+];
+
+export const BlockchainStack = [
+    { name: "Solidity", icon: SolidityIcon, link: "https://solidity.com/" },
+    { name: "Solana", icon: SolanaIcon, link: "https://solana.com/" },
+    { name: "Ethereum", icon: EthereumIcon, link: "https://ethereum.com/" },
+    { name: "Hardhat", icon: HardhatIcon, link: "https://hardhat.com/" },
+    { name: "Chainlink", icon: ChainlinkIcon, link: "https://chainlink.com/" },
+    { name: "Truffle", icon: TruffleIcon, link: "https://truffle.com/" },
+    { name: "Ganache", icon: GanacheIcon, link: "https://ganache.com/" },
 ];

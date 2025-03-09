@@ -15,6 +15,7 @@ export { default as ReactQueryIcon } from "./reactquery.svg"
 export { default as PreactIcon } from "./preactjs.svg"
 export { default as GSAPIcon } from "./gsap.svg"
 export { default as FramerMotionIcon } from "./framermotion.svg"
+export { default as AngularIcon } from "./angular.svg"
 
 // Backend-Stack
 export { default as NodeIcon } from "./nodejs.svg"
@@ -27,6 +28,7 @@ export { default as RestApiIcon } from "./database.svg"
 export { default as GdriveIcon } from "./gdrive.svg"
 export { default as NextAuthIcon } from "./nextauth.svg"
 export { default as EdgeStoreIcon } from "./edgestore.webp"
+export { default as PostgreSQLIcon } from "./postgresql.svg"
 
 // Programming-Stack
 export { default as PythonIcon } from "./python.svg"
@@ -44,3 +46,12 @@ export { default as NetlifyIcon } from "./netlify.svg"
 export { default as VercelIcon } from "./vercel.svg"
 export { default as VsCodeIcon } from "./vscode.svg"
 export { default as FigmaIcon } from "./figma.svg"
+
+// Blockchain-Stack
+export { default as SolidityIcon } from "./solidity.svg"
+export { default as EthereumIcon } from "./Ethereum.svg"
+export { default as SolanaIcon } from "./solana.svg"
+export { default as HardhatIcon } from "./hardhat.svg"
+export { default as ChainlinkIcon } from "./chainlink.svg"
+export { default as TruffleIcon } from "./truffle.svg"
+export { default as GanacheIcon } from "./ganache.svg"

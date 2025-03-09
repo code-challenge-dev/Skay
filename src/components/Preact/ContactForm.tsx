@@ -23,11 +23,9 @@ const ContactForm = () => {
         const email = EmailRef?.current?.value as string;
         const message = MessageRef?.current?.value as string;
 
-        const templateParams = {
-            from_name: name,
-            from_email: email,
-            message: message,
-        }
+        const serviceId = "service_huskvyq";
+        const templateId = "template_wdt00ex";
+        const publicKey = "u8MT3BqFiK8ov1oAA";
 
         try {
 
@@ -37,12 +35,12 @@ const ContactForm = () => {
             }
 
             setisLoading(true)
-            const mailRes = await emailjs.send(
-                import.meta.env.PUBLIC_EMAILJS_SERVICE_ID,
-                import.meta.env.PUBLIC_EMAILJS_TEMPLATE_ID,
-                templateParams,
-                import.meta.env.PUBLIC_EMAILJS_PUBLIC_KEY
-            );
+            const mailRes = await emailjs.send(serviceId, templateId, {
+                from_name: name,
+                from_email: email,
+                message: message,
+            }, publicKey);
+
 
             if (mailRes.status !== 200) {
                 throw new Error("😵 Message not Sent")

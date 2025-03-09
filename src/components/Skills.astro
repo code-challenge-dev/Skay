@@ -3,7 +3,7 @@ import { CenterTitle, SkillTitle, SkillGrid } from "./UI";
 import {
     FrontendStack,
     BackendStack,
-    ProgrammingStack,
+    BlockchainStack,
     ToolsStack,
 } from "../utils/SkillStack";
 ---
@@ -33,8 +33,8 @@ import {
         <div
             class="Fade_Up flex_center flex-col gap-4 py-4 xs:p-4 w-full h-full"
         >
-            <SkillTitle title="Programming" color="primary" />
-            <SkillGrid stack={ProgrammingStack} />
+            <SkillTitle title="Blockchain" color="primary" />
+            <SkillGrid stack={BlockchainStack} />
         </div>
 
         <div
@@ -43,5 +43,6 @@ import {
             <SkillTitle title="Tech & Tools" color="primary" />
             <SkillGrid stack={ToolsStack} />
         </div>
+
     </div>
 </section>
