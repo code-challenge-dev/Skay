@@ -1,8 +1,8 @@
 /* empty css                                    */
-import { c as createComponent, r as renderTemplate, a as renderComponent, b as createAstro, m as maybeRenderHead, d as addAttribute } from '../../chunks/astro/server_1kRJLfSX.mjs';
+import { c as createComponent, a as createAstro, r as renderTemplate, b as renderComponent, m as maybeRenderHead, d as addAttribute } from '../../chunks/astro/server_BiPje1uk.mjs';
 import 'kleur/colors';
 import '@astrojs/internal-helpers/path';
-import { $ as $$ProjectLayout, a as $$Image, b as $$SectionTitle, c as $$CenterTitle } from '../../chunks/ProjectLayout_CgsBJ8cC.mjs';
+import { $ as $$ProjectLayout, a as $$Image, b as $$SectionTitle, c as $$CenterTitle } from '../../chunks/ProjectLayout_BB5wRube.mjs';
 import { ExternalLinkIcon, ClipboardCopyIcon, CheckIcon } from 'lucide-preact';
 export { renderers } from '../../renderers.mjs';
 
@@ -32,7 +32,7 @@ const $$projectID = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$projectID;
   const { projectID } = Astro2.params;
-  const ProjectInfo = import('../../chunks/ProjectsList_C8SRQBS0.mjs');
+  const ProjectInfo = import('../../chunks/ProjectsList_CyCMxgMP.mjs');
   const { ProjectsList } = await ProjectInfo;
   const [project] = ProjectsList.filter(
     (itm) => itm.Name.replaceAll(" ", "-").toLowerCase() === projectID

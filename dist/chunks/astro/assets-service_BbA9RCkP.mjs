@@ -287,7 +287,6 @@ function parseQuality(quality) {
   return result;
 }
 const baseService = {
-  propertiesToHash: DEFAULT_HASH_PROPS,
   validateOptions(options) {
     if (!options.src || typeof options.src !== "string" && typeof options.src !== "object") {
       throw new AstroError({

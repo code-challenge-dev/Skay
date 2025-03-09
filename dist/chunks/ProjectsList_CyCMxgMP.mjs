@@ -1,4 +1,4 @@
-import { H as HtmlIcon, C as CssIcon, J as JsIcon, R as ReactIcon, N as NodeIcon, T as TsIcon, j as NextIcon, M as MysqlIcon, k as MongoIcon, G as GdriveIcon, S as SocketIoIcon, l as RestApiIcon, P as PhpIcon, V as ViteIcon, m as NextAuthIcon, n as ReduxIcon, o as TailwindIcon, Z as ZustandIcon, A as AstroIcon, p as NanostoresIcon, D as D3JsIcon, q as ReactQueryIcon, E as EdgeStoreIcon, r as ExpressIcon, s as PostgreSQLIcon, t as AngularIcon } from './ProjectLayout_CgsBJ8cC.mjs';
+import { R as ReactIcon, j as RestApiIcon, N as NodeIcon, E as ExpressIcon, P as PostgreSQLIcon, H as HtmlIcon, C as CssIcon, M as MongoIcon, A as AngularIcon, k as MysqlIcon, l as PhpIcon } from './ProjectLayout_BB5wRube.mjs';
 
 new Proxy({"src":"/_astro/NextmartLogo.B5Xn3yOo.svg","width":37,"height":39,"format":"svg"}, {
 						get(target, name, receiver) {
@@ -414,11 +414,6 @@ const TechInfo = {
     description: "Cascading Style Sheets for styling the presentation of HTML documents.",
     icon: CssIcon
   },
-  JavaScript: {
-    title: "JavaScript",
-    description: "High-level scripting language for adding interactivity to web pages.",
-    icon: JsIcon
-  },
   React: {
     title: "React",
     description: "JavaScript library for building user interfaces with reusable components.",
@@ -428,16 +423,6 @@ const TechInfo = {
     title: "Node.js",
     description: "JavaScript runtime for server-side applications, enabling scalable and event-driven architecture.",
     icon: NodeIcon
-  },
-  TypeScript: {
-    title: "TypeScript",
-    description: "A superset of JavaScript adding static typing for building large-scale applications with enhanced maintainability and tooling support.",
-    icon: TsIcon
-  },
-  Next: {
-    title: "Next.js",
-    description: "A React framework for server-side rendering, static site generation, and routing, offering improved performance and SEO optimization.",
-    icon: NextIcon
   },
   MySQL: {
     title: "MySQL",
@@ -449,16 +434,6 @@ const TechInfo = {
     description: "NoSQL database offering flexibility and scalability for storing and managing data efficiently.",
     icon: MongoIcon
   },
-  GDrive: {
-    title: "Google Drive API",
-    description: "RESTful API for integrating Google Drive functionalities such as file storage and synchronization into applications.",
-    icon: GdriveIcon
-  },
-  SocketIO: {
-    title: "Socket.IO",
-    description: "Real-time bidirectional communication library for building interactive web applications.",
-    icon: SocketIoIcon
-  },
   RESTAPI: {
     title: "REST API",
     description: "Architectural style for designing networked applications with standardized HTTP operations.",
@@ -468,56 +443,6 @@ const TechInfo = {
     title: "PHP",
     description: "Server-side scripting language for building dynamic web applications.",
     icon: PhpIcon
-  },
-  Vite: {
-    title: "Vite",
-    description: "Modern build tooling for web development with rapid startup and hot module replacement.",
-    icon: ViteIcon
-  },
-  NextAuth: {
-    title: "NextAuth.js",
-    description: "Authentication library designed specifically for Next.js applications, providing robust authentication features and seamless integration.",
-    icon: NextAuthIcon
-  },
-  Redux: {
-    title: "Redux",
-    description: "Predictable state management library for JavaScript applications, enabling developers to write consistent, scalable code with ease.",
-    icon: ReduxIcon
-  },
-  TailwindCSS: {
-    title: "Tailwind CSS",
-    description: "A utility-first CSS framework providing pre-designed, atomic-level utility classes for rapid UI development with minimal CSS code.",
-    icon: TailwindIcon
-  },
-  Zustand: {
-    title: "Zustand",
-    description: "Tiny, fast, and scalable state management for React applications, providing a simple and intuitive API.",
-    icon: ZustandIcon
-  },
-  Astro: {
-    title: "Astro",
-    description: "Frontend framework for streamlined development, integrating seamlessly with popular tools to create fast and modern websites with minimal configuration overhead.",
-    icon: AstroIcon
-  },
-  NanoStores: {
-    title: "NanoStores",
-    description: "Lightweight state management library for JavaScript applications, designed for simplicity and performance to simplify state management and improve application responsiveness.",
-    icon: NanostoresIcon
-  },
-  D3: {
-    title: "D3.js",
-    description: "Versatile JavaScript library for data visualization, enabling developers to create dynamic, interactive graphics and charts by binding data to DOM elements.",
-    icon: D3JsIcon
-  },
-  ReactQuery: {
-    title: "React Query",
-    description: "React library for managing, caching, and synchronizing server state in web applications, providing a powerful and intuitive API for fetching and updating data.",
-    icon: ReactQueryIcon
-  },
-  EdgeStore: {
-    title: "EdgeStore",
-    description: "EdgeStore is an open-source file storage service, designed for scalability and performance, with efficient updates and minimal API.",
-    icon: EdgeStoreIcon
   },
   Express: {
     title: "Express",
