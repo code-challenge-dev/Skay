@@ -1,8 +1,8 @@
 /* empty css                                    */
-import { c as createComponent, r as renderTemplate, a as renderComponent, b as createAstro, m as maybeRenderHead, d as addAttribute } from '../../chunks/astro/server_BqyrsqSq.mjs';
+import { c as createComponent, r as renderTemplate, a as renderComponent, b as createAstro, m as maybeRenderHead, d as addAttribute } from '../../chunks/astro/server_1kRJLfSX.mjs';
 import 'kleur/colors';
 import '@astrojs/internal-helpers/path';
-import { $ as $$ProjectLayout, a as $$Image, b as $$SectionTitle, c as $$CenterTitle } from '../../chunks/ProjectLayout_C611BL56.mjs';
+import { $ as $$ProjectLayout, a as $$Image, b as $$SectionTitle, c as $$CenterTitle } from '../../chunks/ProjectLayout_CgsBJ8cC.mjs';
 import { ExternalLinkIcon, ClipboardCopyIcon, CheckIcon } from 'lucide-preact';
 export { renderers } from '../../renderers.mjs';
 
@@ -32,7 +32,7 @@ const $$projectID = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$projectID;
   const { projectID } = Astro2.params;
-  const ProjectInfo = import('../../chunks/ProjectsList_B1aEWUMB.mjs');
+  const ProjectInfo = import('../../chunks/ProjectsList_C8SRQBS0.mjs');
   const { ProjectsList } = await ProjectInfo;
   const [project] = ProjectsList.filter(
     (itm) => itm.Name.replaceAll(" ", "-").toLowerCase() === projectID
@@ -43,9 +43,9 @@ const $$projectID = createComponent(async ($$result, $$props, $$slots) => {
 About the project.
 </h2> <div class="flex justify-center items-center xl:items-start flex-col xl:flex-row gap-4 py-10"> ${renderComponent($$result2, "Image", $$Image, { "src": project.Mockup, "alt": `${project.Name}_Mockup_Image`, "width": 600, "class": "Fade_Up", "loading": "eager" })} <div class="Fade_Up flex_center flex-col gap-4"> ${project.Demo && renderTemplate`<div class="flex items-center flex-col gap-4 w-fit px-4 py-2 bg-LinkBtnGradient rounded-md mt-4 lg:mt-0"> <h3 class="min-w-max my-auto">Demo Credentials</h3> <div class="flex justify-evenly w-full flex-col md:flex-row gap-2 text-[0.8em]"> <div class="flex gap-4 bg-backgroundLite p-2 rounded-md"> <span class="min-w-20 md:w-fit">Email : </span> <span id="emailContent" class="w-full"> ${project.Demo?.email} </span> <button id="emailCopyBtn" class="flex_center relative"> ${renderComponent($$result2, "ClipboardCopyIcon", ClipboardCopyIcon, { "class": "emailCopyIcon visible" })} ${renderComponent($$result2, "CheckIcon", CheckIcon, { "class": "emailCopyIcon absolute invisible" })} </button> </div> <div class="flex gap-4 bg-backgroundLite p-2 rounded-md"> <span class="min-w-20 md:w-fit">
 Password :${" "} </span> <span id="passContent" class="w-full"> ${project.Demo?.password} </span> <button id="passCopyBtn" class="flex_center relative"> ${renderComponent($$result2, "ClipboardCopyIcon", ClipboardCopyIcon, { "class": "passCopyIcon visible" })} ${renderComponent($$result2, "CheckIcon", CheckIcon, { "class": "passCopyIcon absolute invisible" })} </button> </div> </div> </div>`} <p class="w-full text-justify text-[1.1em] mt-4 px-4 indent-12"> ${project.Desc} </p> </div> </div> ${renderComponent($$result2, "SectionTitle", $$SectionTitle, { "title": "Features", "color": "primary" }, { "default": ($$result3) => renderTemplate` <div class="grid grid-cols-1 md:grid-cols-2 gap-y-4 md:gap-y-6 md:gap-x-10 md:mx-4"> ${project.features.map((items) => renderTemplate`<div class="Fade_Up p-2 md:p-4 text-center md:text-start flex flex-col gap-3 border border-primaryLiteAlt sm:border-transparent hover:border-primaryLiteAlt bg-skillGradientAlt rounded-md transition-colors duration-200"> <span class="font-ubuntu text-[1.125em]"> ${items.title} </span> <p class="md:pl-8 text-center md:text-justify"> ${items.description} </p> </div>`)} </div> ` })} ${renderComponent($$result2, "CenterTitle", $$CenterTitle, { "title": "Tech Stack", "color": "secondary" })} <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-2 mb-96 4xl:mb-[30rem]"> ${project.Tech.map((tech) => renderTemplate`<div class="Fade_Stagger flex_center flex-col gap-4 p-4 border border-secondaryLiteAlt sm:border-transparent hover:border-secondaryLiteAlt bg-skillGradientAlt rounded-md transition-colors duration-200"> <div class="flex_center gap-4"> ${renderComponent($$result2, "Image", $$Image, { "src": tech.icon, "alt": tech.title, "width": 40, "height": 40 })} <span class="text-[1.2em]">${tech.title}</span> </div> <p class="text-center">${tech.description}</p> </div>`)} </div> ` }));
-}, "C:/Users/Administrator/Downloads/first portfolio/src/pages/projects/[projectID].astro", void 0);
+}, "E:/Mine/Resume/Yurii/first portfolio/src/pages/projects/[projectID].astro", void 0);
 
-const $$file = "C:/Users/Administrator/Downloads/first portfolio/src/pages/projects/[projectID].astro";
+const $$file = "E:/Mine/Resume/Yurii/first portfolio/src/pages/projects/[projectID].astro";
 const $$url = "/projects/[projectID]";
 
 const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({

@@ -1,6 +1,6 @@
 {
-    "short_name": "Kaito Daniel",
-    "name": "Kaito Daniel | Portfolio",
+    "short_name": "Yurii Sherehi",
+    "name": "Yurii Sherehi | Portfolio",
     "icons": [
         {
             "src": "./Icons/144.png",
@@ -30,7 +30,7 @@
     "display": "standalone",
     "theme_color": "#000",
     "background_color": "#000",
-    "description": "Welcome to Kaito Daniel's portfolio website, your gateway to the dynamic world of full stack web development. Immerse yourself in the digital realm where my expertise in coding and design converges to create extraordinary online experiences.",
+    "description": "Welcome to Yurii Sherehi's portfolio website, your gateway to the dynamic world of full stack web development. Immerse yourself in the digital realm where my expertise in coding and design converges to create extraordinary online experiences.",
     "dir": "ltr",
     "lang": "en",
     "orientation": "portrait",
