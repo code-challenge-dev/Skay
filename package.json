@@ -32,5 +32,8 @@
     "preact": "^10.24.2",
     "tailwindcss": "^3.4.13",
     "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "rollup": "^4.35.0"
   }
 }
