@@ -3,7 +3,7 @@ import {
 } from "../assets/Icons"
 
 import {
-    ClimateLogo, MarkLogo
+    ClimateLogo
 } from "../assets/Logos"
 
 import {
@@ -11,7 +11,7 @@ import {
 } from "../assets/Shots"
 
 import {
-    ARMSv1Mockup, ARMSv2Mockup, ARMSv3Mockup, ClimateMockup, DaysbeyondMockup, SrinivasMockup, VortexaMockup, XreconMockup, YoatubeMockup
+    ClimateMockup
 } from "../assets/Mockup"
 
 
