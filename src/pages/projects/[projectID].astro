@@ -16,6 +16,7 @@ export function getStaticPaths() {
         { params: { projectID: "climate" } },
     ];
 }
+
 const { projectID } = Astro.params;
 
 import { Image } from "astro:assets";
@@ -27,11 +28,13 @@ import { CenterTitle, SectionTitle } from "../../components/UI";
 const ProjectInfo = import("../../utils/ProjectsList");
 const { ProjectsList } = await ProjectInfo;
 const [project] = ProjectsList.filter(
-    (itm) => itm.Name.replaceAll(" ", "-").toLowerCase() === projectID,
+    (itm) => itm.Name.toLowerCase().replace(/\s+/g, "-") === projectID,
 );
 ---
 
-<ProjectLayout
+{
+    project ? (
+        <ProjectLayout
     title=`${project.Name} | ChiragChrg`
     description={project.ShortDesc}
 >
@@ -216,6 +219,11 @@ const [project] = ProjectsList.filter(
         }
     </div>
 </ProjectLayout>
+    ) : (
+        <p>Project not found.</p>
+    )
+}
+
 
 <script is:inline type="module">
     const emailCopyBtn = document.getElementById("emailCopyBtn");

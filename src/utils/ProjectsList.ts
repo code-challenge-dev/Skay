@@ -16,6 +16,7 @@ import {
 
 
 type ProjectsListType = {
+    id: string,
     Name: string,
     ShortDesc: string,
     Desc: string,
@@ -46,35 +47,6 @@ type ProjectsListType = {
         version: string
     }[]
 }[]
-
-// -- PROJECTS TEMPLATE --
-// {
-//     Name: "TITLE",
-//     ShortDesc: "SHORT_DESCRIPTION",
-//     Desc: "DESCRIPTION",
-//     Logo: LOGO_URL,
-//     Shot: SCREENSHOT_URL,
-//     Mockup: MOCKUP_URL,
-//     Theme: "PROJECT_THEME_COLOR_HEX",
-//     Status: "completed OR development",
-//     Link: "PROJECT_URL",
-//     Source: "GITHUB_URL",
-//     Demo?: { 
-//         email: "DEMO_EMAIL", 
-//         password: "DEMO_PASSWORD" 
-//     },
-//     Tech: [TECH_ICONS_URL],
-//     features: [{
-//         title: "FEATURE_TITLE",
-//         description: "FEATURE_DESCRIPTION"
-//     }],
-//     hideProject: false,
-//     LogoSize: 50,
-//     versions: [{ 
-//         title: "PREV_PROJECT_TITLE", 
-//         version: "VERSION_NO" 
-//     }]
-// },
 
 const TechInfo = {
     HTML: {
@@ -223,6 +195,7 @@ const FeatureList = {
 
 export const ProjectsList: ProjectsListType = [
     {
+        id: "mimum-account",
         Name: "Mimum Account",
         ShortDesc: "To build Indian Accouting software for manage day to day activity regarding accounting as well as inventory management with batching.",
         Desc: "CliMate is a user friendly weather app that keeps you informed about the current conditions of any location. With CliMate, you can effortlessly access accurate weather updates for any place you choose. Utilizing geolocation support, it can even detect your current location, ensuring you always have the most precise weather information at your fingertips. Stay informed and be prepared with CliMate.",
@@ -246,6 +219,7 @@ export const ProjectsList: ProjectsListType = [
         ]
     },
     {
+        id: "lab-brown",
         Name: "Lab Brown",
         ShortDesc: "Project goal is to build ecommerce platform to book order about labgrown diamond.",
         Desc: "CliMate is a user friendly weather app that keeps you informed about the current conditions of any location. With CliMate, you can effortlessly access accurate weather updates for any place you choose. Utilizing geolocation support, it can even detect your current location, ensuring you always have the most precise weather information at your fingertips. Stay informed and be prepared with CliMate.",
@@ -269,6 +243,7 @@ export const ProjectsList: ProjectsListType = [
         ]
     },
     {
+        id: "bridi-horse",
         Name: "Bridi Horse",
         ShortDesc: "BRIDL offers a simple, safe, and transparent sales experience.",
         Desc: "CliMate is a user friendly weather app that keeps you informed about the current conditions of any location. With CliMate, you can effortlessly access accurate weather updates for any place you choose. Utilizing geolocation support, it can even detect your current location, ensuring you always have the most precise weather information at your fingertips. Stay informed and be prepared with CliMate.",
@@ -292,6 +267,7 @@ export const ProjectsList: ProjectsListType = [
         ]
     },
     {
+        id: "care-magnus",
         Name: "Care Magnus",
         ShortDesc: "CareMagnus is highy modular, scalable and has been designed keeping in view the needs of care delivery through various channels. ",
         Desc: "CliMate is a user friendly weather app that keeps you informed about the current conditions of any location. With CliMate, you can effortlessly access accurate weather updates for any place you choose. Utilizing geolocation support, it can even detect your current location, ensuring you always have the most precise weather information at your fingertips. Stay informed and be prepared with CliMate.",
@@ -315,6 +291,7 @@ export const ProjectsList: ProjectsListType = [
         ]
     },
     {
+        id: "rocca-box",
         Name: "Rocca Box",
         ShortDesc: "RoccaBox is a real estate mobile appltion that makes the property searching process a lot smoother. It introduces diverse services and makes it super easy for users to avail best property.",
         Desc: "CliMate is a user friendly weather app that keeps you informed about the current conditions of any location. With CliMate, you can effortlessly access accurate weather updates for any place you choose. Utilizing geolocation support, it can even detect your current location, ensuring you always have the most precise weather information at your fingertips. Stay informed and be prepared with CliMate.",
@@ -338,6 +315,7 @@ export const ProjectsList: ProjectsListType = [
         ]
     },
     {
+        id: "boat-booking",
         Name: "Boat Booking",
         ShortDesc: "This project involved the development of a comprehensive boat booking and management website from scratch.",
         Desc: "CliMate is a user friendly weather app that keeps you informed about the current conditions of any location. With CliMate, you can effortlessly access accurate weather updates for any place you choose. Utilizing geolocation support, it can even detect your current location, ensuring you always have the most precise weather information at your fingertips. Stay informed and be prepared with CliMate.",
@@ -360,6 +338,6 @@ export const ProjectsList: ProjectsListType = [
             { title: "CliMate", version: "1" },
         ]
     },
-    
-   
+
+
 ]
