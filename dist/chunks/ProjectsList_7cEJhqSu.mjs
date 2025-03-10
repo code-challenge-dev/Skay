@@ -1,4 +1,4 @@
-import { R as ReactIcon, j as RestApiIcon, N as NodeIcon, E as ExpressIcon, P as PostgreSQLIcon, H as HtmlIcon, C as CssIcon, M as MongoIcon, A as AngularIcon, k as MysqlIcon, l as PhpIcon } from './ProjectLayout_BB5wRube.mjs';
+import { R as ReactIcon, j as RestApiIcon, N as NodeIcon, E as ExpressIcon, P as PostgreSQLIcon, H as HtmlIcon, C as CssIcon, M as MongoIcon, A as AngularIcon, k as MysqlIcon, l as PhpIcon } from './ProjectLayout_B6Lg-yQ1.mjs';
 
 new Proxy({"src":"/_astro/NextmartLogo.B5Xn3yOo.svg","width":37,"height":39,"format":"svg"}, {
 						get(target, name, receiver) {
@@ -6,9 +6,9 @@ new Proxy({"src":"/_astro/NextmartLogo.B5Xn3yOo.svg","width":37,"height":39,"for
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/NextmartLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/NextmartLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/NextmartLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/NextmartLogo.svg");
 							return target[name];
 						}
 					});
@@ -19,9 +19,9 @@ new Proxy({"src":"/_astro/ArmsLogo.CU8M-Qhk.svg","width":1080,"height":1080,"for
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/ArmsLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/ArmsLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/ArmsLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/ArmsLogo.svg");
 							return target[name];
 						}
 					});
@@ -32,9 +32,9 @@ new Proxy({"src":"/_astro/ArmsPhpLogo.CPRJl-ko.svg","width":16,"height":16,"form
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/ArmsPhpLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/ArmsPhpLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/ArmsPhpLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/ArmsPhpLogo.svg");
 							return target[name];
 						}
 					});
@@ -45,9 +45,9 @@ const ClimateLogo = new Proxy({"src":"/_astro/C.DnZkJ-tb.svg","width":512,"heigh
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/ClimateLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/ClimateLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/ClimateLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/ClimateLogo.svg");
 							return target[name];
 						}
 					});
@@ -58,9 +58,9 @@ new Proxy({"src":"/_astro/CookeezLogo.BmMIIkuQ.svg","width":16,"height":16,"form
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/CookeezLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/CookeezLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/CookeezLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/CookeezLogo.svg");
 							return target[name];
 						}
 					});
@@ -71,9 +71,9 @@ new Proxy({"src":"/_astro/CovidtraxLogo.DG2Lx_T9.svg","width":16,"height":16,"fo
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/CovidtraxLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/CovidtraxLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/CovidtraxLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/CovidtraxLogo.svg");
 							return target[name];
 						}
 					});
@@ -84,9 +84,9 @@ new Proxy({"src":"/_astro/DaysbeyondLogo.CImbcFyJ.svg","width":16,"height":16,"f
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/DaysbeyondLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/DaysbeyondLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/DaysbeyondLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/DaysbeyondLogo.svg");
 							return target[name];
 						}
 					});
@@ -97,9 +97,9 @@ new Proxy({"src":"/_astro/FilmstackLogo.B_Ju3Xhg.svg","width":16,"height":16,"fo
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/FilmstackLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/FilmstackLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/FilmstackLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/FilmstackLogo.svg");
 							return target[name];
 						}
 					});
@@ -110,9 +110,9 @@ new Proxy({"src":"/_astro/KalciLogo.zfR8ypBE.svg","width":16,"height":16,"format
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/KalciLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/KalciLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/KalciLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/KalciLogo.svg");
 							return target[name];
 						}
 					});
@@ -123,9 +123,9 @@ new Proxy({"src":"/_astro/NuklearbrainLogo.DequLucG.svg","width":1536,"height":1
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/NuklearbrainLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/NuklearbrainLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/NuklearbrainLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/NuklearbrainLogo.svg");
 							return target[name];
 						}
 					});
@@ -136,9 +136,9 @@ new Proxy({"src":"/_astro/PikturesLogo.BXXOgraX.svg","width":941,"height":647,"f
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/PikturesLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/PikturesLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/PikturesLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/PikturesLogo.svg");
 							return target[name];
 						}
 					});
@@ -149,9 +149,9 @@ new Proxy({"src":"/_astro/SrinivasLogo.DFJKYWaL.svg","width":1281,"height":1494,
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/SrinivasLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/SrinivasLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/SrinivasLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/SrinivasLogo.svg");
 							return target[name];
 						}
 					});
@@ -162,9 +162,9 @@ new Proxy({"src":"/_astro/XReconLogo.BuRVcosE.svg","width":1080,"height":1080,"f
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/XReconLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/XReconLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/XReconLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/XReconLogo.svg");
 							return target[name];
 						}
 					});
@@ -175,9 +175,9 @@ new Proxy({"src":"/_astro/YoatubeLogo.D-YeXkb1.svg","width":16,"height":16,"form
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/YoatubeLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/YoatubeLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/YoatubeLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/YoatubeLogo.svg");
 							return target[name];
 						}
 					});
@@ -188,9 +188,9 @@ new Proxy({"src":"/_astro/VortexaLogo.BKP37Ped.svg","width":100,"height":101,"fo
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/VortexaLogo.svg";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/VortexaLogo.svg";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/VortexaLogo.svg");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/VortexaLogo.svg");
 							return target[name];
 						}
 					});
@@ -201,9 +201,9 @@ new Proxy({"src":"/_astro/MarkLogo.8zu75vLz.png","width":512,"height":512,"forma
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/MarkLogo.png";
+								return "E:/Git Repo/first portfolio/src/assets/Logos/MarkLogo.png";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Logos/MarkLogo.png");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Logos/MarkLogo.png");
 							return target[name];
 						}
 					});
@@ -214,9 +214,9 @@ const MunimAccountShots = new Proxy({"src":"/_astro/munim account.BR0OkPUH.webp"
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/munim account.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Shots/munim account.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/munim account.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Shots/munim account.webp");
 							return target[name];
 						}
 					});
@@ -227,9 +227,9 @@ const LabGrownShots = new Proxy({"src":"/_astro/labgrown.Byhjm1Mv.webp","width":
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/labgrown.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Shots/labgrown.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/labgrown.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Shots/labgrown.webp");
 							return target[name];
 						}
 					});
@@ -240,9 +240,9 @@ const BridiShots = new Proxy({"src":"/_astro/BridI.DoCbs6xU.webp","width":1398,"
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/BridI.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Shots/BridI.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/BridI.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Shots/BridI.webp");
 							return target[name];
 						}
 					});
@@ -253,9 +253,9 @@ const CareMagnusShots = new Proxy({"src":"/_astro/CareMagnus- Hospital.BCbu_0MN.
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/CareMagnus- Hospital.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Shots/CareMagnus- Hospital.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/CareMagnus- Hospital.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Shots/CareMagnus- Hospital.webp");
 							return target[name];
 						}
 					});
@@ -266,9 +266,9 @@ const BoatBookingShots = new Proxy({"src":"/_astro/Boat Booking.jzpjy08y.webp","
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/Boat Booking.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Shots/Boat Booking.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/Boat Booking.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Shots/Boat Booking.webp");
 							return target[name];
 						}
 					});
@@ -279,9 +279,9 @@ const RoccaShots = new Proxy({"src":"/_astro/RoccaBox.BiRKIbLT.webp","width":134
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/RoccaBox.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Shots/RoccaBox.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Shots/RoccaBox.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Shots/RoccaBox.webp");
 							return target[name];
 						}
 					});
@@ -292,9 +292,9 @@ new Proxy({"src":"/_astro/ARMSv1-Mockup.wOs2nmws.webp","width":1800,"height":760
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/ARMSv1-Mockup.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Mockup/ARMSv1-Mockup.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/ARMSv1-Mockup.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Mockup/ARMSv1-Mockup.webp");
 							return target[name];
 						}
 					});
@@ -305,9 +305,9 @@ new Proxy({"src":"/_astro/ARMSv2-Mockup.8oUJ6BEV.webp","width":1800,"height":760
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/ARMSv2-Mockup.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Mockup/ARMSv2-Mockup.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/ARMSv2-Mockup.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Mockup/ARMSv2-Mockup.webp");
 							return target[name];
 						}
 					});
@@ -318,9 +318,9 @@ new Proxy({"src":"/_astro/ARMSv3-Mockup.k7I2gnPh.webp","width":1800,"height":760
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/ARMSv3-Mockup.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Mockup/ARMSv3-Mockup.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/ARMSv3-Mockup.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Mockup/ARMSv3-Mockup.webp");
 							return target[name];
 						}
 					});
@@ -331,9 +331,9 @@ const ClimateMockup = new Proxy({"src":"/_astro/Climate-Mockup.CWhiX6b9.webp","w
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/Climate-Mockup.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Mockup/Climate-Mockup.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/Climate-Mockup.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Mockup/Climate-Mockup.webp");
 							return target[name];
 						}
 					});
@@ -344,9 +344,9 @@ new Proxy({"src":"/_astro/Daysbeyond-Mockup.C1_oP5Dq.webp","width":1800,"height"
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/Daysbeyond-Mockup.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Mockup/Daysbeyond-Mockup.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/Daysbeyond-Mockup.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Mockup/Daysbeyond-Mockup.webp");
 							return target[name];
 						}
 					});
@@ -357,9 +357,9 @@ new Proxy({"src":"/_astro/SEM-Mockup.Dy3GIYOb.webp","width":1800,"height":760,"f
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/SEM-Mockup.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Mockup/SEM-Mockup.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/SEM-Mockup.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Mockup/SEM-Mockup.webp");
 							return target[name];
 						}
 					});
@@ -370,9 +370,9 @@ new Proxy({"src":"/_astro/Vortexa-Mockup.D-5GzNN0.webp","width":1800,"height":76
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/Vortexa-Mockup.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Mockup/Vortexa-Mockup.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/Vortexa-Mockup.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Mockup/Vortexa-Mockup.webp");
 							return target[name];
 						}
 					});
@@ -383,9 +383,9 @@ new Proxy({"src":"/_astro/Xrecon-Mockup.CQEEDHHV.webp","width":1800,"height":760
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/Xrecon-Mockup.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Mockup/Xrecon-Mockup.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/Xrecon-Mockup.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Mockup/Xrecon-Mockup.webp");
 							return target[name];
 						}
 					});
@@ -396,9 +396,9 @@ new Proxy({"src":"/_astro/Yoatube-Mockup.BW0kgskb.webp","width":1800,"height":76
 								return structuredClone(target);
 							}
 							if (name === 'fsPath') {
-								return "E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/Yoatube-Mockup.webp";
+								return "E:/Git Repo/first portfolio/src/assets/Mockup/Yoatube-Mockup.webp";
 							}
-							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Mine/Resume/Yurii/first portfolio/src/assets/Mockup/Yoatube-Mockup.webp");
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("E:/Git Repo/first portfolio/src/assets/Mockup/Yoatube-Mockup.webp");
 							return target[name];
 						}
 					});
